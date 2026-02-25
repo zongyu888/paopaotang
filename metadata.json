@@ -1,0 +1,5 @@
+{
+  "name": "PaoPaoTang",
+  "description": "A multiplayer bomberman-style game with up to 4 players.",
+  "requestFramePermissions": []
+}
